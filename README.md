@@ -1,2 +1,2 @@
 # hello-world
-Just another hello word
+Just another meaningless hello world 
